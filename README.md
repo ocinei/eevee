@@ -7,7 +7,8 @@ Eevee is trying to implement a suncas tracker.
 Please follow the procedures below to use deeplabcut:
 
 For AppleM1/M2 chips:
-```conda create -n deeplabcut_apple_mchip python=3.9
+`conda create -n deeplabcut_apple_mchip python=3.9
 conda activate deeplabcut_apple_mchip
 pip install "notebook<7.0.0" "tensorflow-macos<2.13.0" "tensorflow-metal" 
-pip install "deeplabcut[gui]"```
+pip install "deeplabcut[gui]"`
+
